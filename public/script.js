@@ -17,7 +17,7 @@ fetch(url)
             let nom = document.createElement('h2');
             let description = document.createElement('span');
             let programme = document.createElement('span');
-            let year = document.createElement('span');
+            let year = document.createElement('span');  
             let date_debut = document.createElement('span');
             let date_fin = document.createElement('span');
 
